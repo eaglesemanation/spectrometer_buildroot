@@ -1,3 +1,11 @@
+# From https://static.rust-lang.org/dist/2023-06-07/rust-nightly-wasm32-unknown-unknown.tar.xz.sha256
+sha256  854785d751360aa994e21e93d84f459108b332ba9a637a8141efbc5502c01fe8  rust-std-nightly-wasm32-unknown-unknown.tar.xz
+# From https://static.rust-lang.org/dist/2023-06-07/rust-nightly-aarch64-unknown-linux-gnu.tar.xz.sha256
+sha256  bf5a2768681674d45c41efd30432ab4832bab32740851e194d5c0671c8365635  rust-nightly-aarch64-unknown-linux-gnu.tar.xz
+# From https://static.rust-lang.org/dist/2023-06-07/rust-std-nightly-aarch64-unknown-linux-gnu.tar.xz.sha256
+sha256  336e4ceb0154d62d16ef637f824f2fa1025cb6f271556c991a28953651b135fa  rust-std-nightly-aarch64-unknown-linux-gnu.tar.xz
+# From https://static.rust-lang.org/dist/2023-06-07/rust-nightly-x86_64-unknown-linux-gnu.tar.xz.sha256
+sha256  6cd193d3f396afa99d32b93abe0eb3ae8f4d2cc2fff15eeb2e33d137ef620c93  rust-nightly-x86_64-unknown-linux-gnu.tar.xz
 # From https://static.rust-lang.org/dist/rust-1.68.2-aarch64-unknown-linux-gnu.tar.xz.sha256
 # Verified using https://static.rust-lang.org/dist/rust-1.68.2-aarch64-unknown-linux-gnu.tar.xz.asc
 sha256  1731add9b04d0fcbd096b610a67e1b1ae5740ce1171dd904d944ff504a84bcc7  rust-1.68.2-aarch64-unknown-linux-gnu.tar.xz

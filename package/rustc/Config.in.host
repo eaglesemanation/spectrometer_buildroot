@@ -176,6 +176,11 @@ config BR2_PACKAGE_HOST_RUST_BIN
 
 endchoice
 
+config BR2_PACKAGE_HOST_RUSTC_WASM_SUPPORT
+    bool "wasm target support"
+    help
+      This includes wasm32-unknown-unknown std-lib
+
 endif
 
 config BR2_PACKAGE_PROVIDES_HOST_RUSTC
